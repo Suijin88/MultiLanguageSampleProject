@@ -171,7 +171,6 @@ D:\MultiLanguageProj\MultiLanguageProject\bin\pt-br\System.Web.Razor.resources.d
 D:\MultiLanguageProj\MultiLanguageProject\bin\pt-br\System.Web.WebPages.resources.dll
 D:\MultiLanguageProj\MultiLanguageProject\bin\pt-br\System.Web.WebPages.Deployment.resources.dll
 D:\MultiLanguageProj\MultiLanguageProject\bin\pt-br\System.Web.WebPages.Razor.resources.dll
-D:\MultiLanguageProj\MultiLanguageProject\obj\Debug\MultiLanguageProject.csproj.AssemblyReference.cache
 D:\MultiLanguageProj\MultiLanguageProject\obj\Debug\MultiLanguageProject.Resources.HomeTexts.resources
 D:\MultiLanguageProj\MultiLanguageProject\obj\Debug\MultiLanguageProject.Resources.HomeTexts.pt.resources
 D:\MultiLanguageProj\MultiLanguageProject\obj\Debug\MultiLanguageProject.csproj.GenerateResource.cache
